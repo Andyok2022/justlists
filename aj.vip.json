@@ -2,20 +2,20 @@
     "name":"JustSwap Default List",
     "tokens":[
     {
-        "symbol":"SUN",
-        "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
-        "chainId":1,
-        "decimals":18,
-        "name":"SUN TOKEN",
-        "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
-    },
-    {
         "symbol":"AJ.VIP",
         "address":"TNTsQstXg6JyxZyNTJedJ1SbCirc1v9bz2",
         "chainId":1,
         "decimals":6,
         "name":"AJ.VIP Hash",
         "logoURI":"https://aj.vip/ajviplogo.png"
+    },
+    {
+        "symbol":"SUN",
+        "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+        "chainId":1,
+        "decimals":18,
+        "name":"SUN TOKEN",
+        "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
     },
     {
         "symbol":"BTC",
