@@ -1,15 +1,15 @@
 {
     "name":"AJ.VIP List",
     "tokens":[
-    {
-        "symbol":"AJ.VIP",
-        "address":"TNTsQstXg6JyxZyNTJedJ1SbCirc1v9bz2",
-        "chainId":1,
-        "decimals":6,
-        "name":"AJ.VIP Hash",
-        "logoURI":"https://aj.vip/ajviplogo.png"
-    }
-],
+        {
+            "symbol":"AJ.VIP",
+            "address":"TNTsQstXg6JyxZyNTJedJ1SbCirc1v9bz2",
+            "chainId":1,
+            "decimals":6,
+            "name":"AJ.VIP Hash",
+            "logoURI":"https://aj.vip/ajviplogo.png"
+        }
+    ],
     "logoURI":"https://aj.vip/icon.ico",
     "version":{
     "patch":1,
